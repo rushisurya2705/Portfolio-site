@@ -1,0 +1,31 @@
+body{
+ background-color:#D3DEDC;
+}
+hr{
+ border-style: none;
+ border-top-style:dotted;
+ border-color:grey;
+ border-width:6px;
+ width: 5%;
+}
+h1{
+  color:#4FBDBA
+}
+h3{
+  color:#086E7D
+}
+table {
+    margin: 0 auto;
+}​
+.table2 td{
+  text-align: center;
+}
+.table2{
+  border-collapse: collapse;
+}
+ol
+   {
+      display: inline-block;
+      margin-left: auto;
+      margin-right: auto;
+   }
